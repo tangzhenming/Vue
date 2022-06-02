@@ -21,3 +21,15 @@
 
 ![img](https://static001.geekbang.org/resource/image/97/eb/973ea8e35c177d252e4180c5bbfcc6eb.jpg?wh=1418x819)
 
+## 源码管理规范
+
+```
+├── src
+│   ├── api            数据请求
+│   ├── assets         静态资源
+│   ├── components     组件
+│   ├── pages          页面
+│   ├── router         路由配置
+│   ├── store          vuex数据
+│   └── utils          工具函数
+```
