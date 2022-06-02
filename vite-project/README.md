@@ -11,15 +11,25 @@
 ## 项目架构
 
 1. 基于 Node.js 生态
-2. 工程化工具：使用 Vite
-3. 应用开发语言：Vue 3
-   1. 数据管理：Vuex
-   2. 路由管理：Vue-router
-   3. `npm install vue-router@next vuex@next`
-4. 开发工具：使用 VSCode （编辑器） + Volar （语法提示工具）
-5. 调试工具：Chrome + Dev Tools
+2. 开发工具：使用 VSCode （编辑器） + Volar （语法提示工具）
+3. 调试工具：Chrome + Dev Tools
+4. 工程化工具：使用 Vite
+   1. 代码规范
+      1. ESLint
+      2. Prettier
+   2. 研发规范
+      1. Git
+5. 应用开发语言及其生态：
+   1. Vue 3
+   2. 数据管理：Vuex ： `npm install vue-router@next`
+   3. 路由管理：Vue-router ： `npm install vuex@next`
+   4. CSS 预处理
+   5. 网络请求
+   6. 组件库
+6. 单元测试
+7. 部署
 
-![img](https://static001.geekbang.org/resource/image/97/eb/973ea8e35c177d252e4180c5bbfcc6eb.jpg?wh=1418x819)
+![img](https://static001.geekbang.org/resource/image/3c/2c/3c9c01bf8917b85c469d086d4d0eb52c.jpg?wh=1385x968)
 
 ## 源码管理规范
 
